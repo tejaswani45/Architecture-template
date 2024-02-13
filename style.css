@@ -1,0 +1,249 @@
+
+        ul li {
+            list-style: none;
+            display: inline-block;
+            padding: 2px;
+            margin-top: 0px;
+        }
+
+        ul li a {
+            text-decoration: none;
+            color: white;
+            position: absolute;
+            top: 25px;
+
+        }
+
+
+
+        .right {
+            margin-left: 1000px;
+        }
+        .middle {
+            margin-left: 1060px;
+        }
+        .last{
+            margin-left: 1120px;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        nav {
+            position: fixed;
+            padding: 25px;
+            margin-top: 0px;
+            margin-bottom: 250px;
+            background-color: lightslategray;
+            width: 1500px;
+            height: 25px;
+            gap: 50px;
+        }
+
+        .myname {
+            position: absolute;
+            top: 25%;
+            right: 5%;
+        }
+
+        .secondhouse {
+            position: absolute;
+            top: 886px;
+            left: 322px;
+            font-size: 20px;
+            padding: 1px;
+            margin: 1px;
+            background-color: black;
+            color: white;
+        }
+
+        .thirdhouse {
+            position: absolute;
+            left: 640px;
+            top: 888px;
+            font-size: 20px;
+            padding: 1px;
+            margin: 1px;
+            background-color: black;
+            color: white;
+        }
+
+        .fourthhouse {
+            position: absolute;
+            left: 955px;
+            top: 888px;
+            font-size: 20px;
+            padding: 1px;
+            margin: 1px;
+            background-color: black;
+            color: white;
+        }
+
+        .sixthhouse {
+            position: absolute;
+            top: 1178px;
+            left: 322px;
+            font-size: 20px;
+            padding: 1px;
+            margin: 1px;
+            background-color: black;
+            color: white;
+        }
+
+        .seventhhouse {
+            position: absolute;
+            left: 640px;
+            top: 1178px;
+            font-size: 20px;
+            padding: 1px;
+            margin: 1px;
+            background-color: black;
+            color: white;
+        }
+
+        .eighthhouse {
+            position: absolute;
+            left: 955px;
+            top: 1178px;
+            font-size: 20px;
+            padding: 1px;
+            margin: 1px;
+            background-color: black;
+            color: white;
+        }
+        .description {
+            background-color: black;
+            color: azure;
+            position: relative;
+           
+            padding: 8px;
+            right: 220px;
+            bottom: 220px;
+        }
+
+        .janedoe {
+            position: absolute;
+            left: 322px;
+            top: 1615px;
+            font-size: 20px;
+            padding: 1px;
+            margin: 1px;
+            background-color: black;
+            color: white;
+
+        }
+
+        .mikeross {
+            position: absolute;
+            left: 640px;
+            top: 1615px;
+            font-size: 20px;
+            padding: 1px;
+            margin: 1px;
+            background-color: black;
+            color: white;
+
+        }
+
+        .danstar {
+            position: absolute;
+            left: 955px;
+            top: 1615px;
+            font-size: 20px;
+            padding: 1px;
+            margin: 1px;
+            background-color: black;
+            color: white;
+
+        }
+
+        .person2 {
+            position: absolute;
+            left: 322px;
+            top: 1882px;
+            padding: 1px;
+            margin: 1px;
+            color: black;
+
+        }
+
+        .person3 {
+            position: absolute;
+            left: 640px;
+            top: 1882px;
+            padding: 1px;
+            margin: 1px;
+            color: black;
+
+        }
+
+        .person4 {
+            position: absolute;
+            left: 955px;
+            top: 1882px;
+            padding: 1px;
+            margin: 1px;
+            color: black;
+
+        }
+
+        .custom-button {
+            width: 250px;
+            height: 40px;
+            margin-right: 65px;
+            background-color: lightgray;
+            box-shadow: none;
+        }
+
+        .button-container {
+            display: flex;
+        }
+
+        form {
+            width: 1200px;
+        }
+
+        input[type="text"],
+        input[type="email"] {
+            height: 50px;
+            width: 100%;
+            box-sizing: border-box;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+        input[type="submit"] {
+            height: 50px;
+            width: 250px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        #submit button {
+            height: 50px;
+            width: 250px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            box-shadow: none;
+        }
+        footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+   
+    bottom: 0;
+    width: 100%;
+}
